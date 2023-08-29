@@ -16,7 +16,7 @@ Description: CV, Resume, vCard HTML Template
 07. Section Fun Facts
 08. Section Resume
 09. Section Works
-10. Section Testimonials
+10. Section Testimonials    
 11. Section Blog
 12. Section Customers
 13. Section Contact
@@ -623,7 +623,7 @@ li {
     margin: 0;
 }
 
-.about .skills .item {
+.about .skills .item {  
     margin-top: 40px;
 }
 
